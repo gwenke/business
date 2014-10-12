@@ -1,0 +1,32 @@
+﻿#redline {width:inherit; height: 20px; color: purple; border-style: inset; border-color: lime; margin: 5px; float: inherit }
+#links a{text-decoration: none; font-weight: bold; display: block; font-style: oblique; color: purple}
+#links {margin: 10px; float: left; background-color: lime; padding: 10px; width: 100px; height: inherit}
+#links a:hover{color: Black; text-decoration: none}
+#content {margin: 10px; width: 1450px; height: inherit; padding: 10px; float: inherit}
+#content {color: purple; font-style: oblique; font-weight: bold; font-size: x-large}
+#Gallery {color: lime; width: inherit; height: inherit; float: inherit; text-align: center; font-family: Calisto MT; font-size: xx-large}
+#Gallery {border-style: inset; border-color: purple; position: relative }
+#alien{margin: 10px; padding: 5px; width: 250px; height: 450px}
+#alien{border-style: inset; border-color: lime; border-width: medium}
+#bound{margin: 10px; padding: 5px; width: 250px; height: 450px}
+#bound{border-style: inset; border-color: lime; border-width: medium}
+#goblin{margin: 10px; padding: 5px; width: 250px; height: 450px}
+#goblin{border-style: inset; border-color: lime; border-width: medium}
+#devil{margin: 10px; padding: 5px; width: 250px; height: 450px}
+#devil{border-style: inset; border-color: lime; border-width: medium}
+#death{margin: 10px; padding: 5px; width: 250px; height: 450px}
+#death{border-style: inset; border-color: lime; border-width: medium}
+#out{margin-left: 150px; padding: 5px; width: 250px; height: 450px}
+#out{border-style: inset; border-color: lime; border-width: medium}
+#txt {margin: 10px; width: 1450px; height: inherit; padding: 10px; float: inherit}
+#txt {color: purple; font-style: oblique; font-weight: bold; font-size: x-large}
+#contacts {font-family: Calisto MT; font-weight: bold; border-width: thick; border-color: lime; border-style: groove; color: lime; float: right; padding: 5px}
+#contacts a{text-decoration: none; color: purple}
+#contacts a:hover{text-decoration: blink; color: black}
+#contxt a{text-decoration: none}
+#contxt a:hover{color: lime}
+#contxt {margin: 10px; width: 1450px; height: inherit; padding: 10px; float: inherit}
+#contxt {color: purple; font-style: oblique; font-size: x-large}
+#valid1{float: left; position: relative}
+#valid2{float: left; position: relative}
+body {background-image: url("AngelODeath.jpg")}
